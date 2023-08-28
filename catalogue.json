@@ -1,0 +1,20 @@
+{
+  "name": "Node-RED Teknoir catalogue",
+  "updated_at": "2023-09-28T07:15:04.227Z",
+  "modules": [
+    {
+      "description": "A webcamera node for Node-Red.",
+      "keywords": [
+        "node-red",
+        "webcamera"
+      ],
+      "types": [
+        "webcamera"
+      ],
+      "updated_at": "2014-07-12T19:47:53.251Z",
+      "id": "node-red-teknoir-webcamera",
+      "version": "teknoir/node-red-teknoir-webcamera#main",
+      "url": "https://github.com/teknoir/node-red-teknoir-webcamera"
+    }
+  ]
+}
