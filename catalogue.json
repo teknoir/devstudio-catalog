@@ -3,7 +3,7 @@
   "updated_at": "2023-09-28T07:15:04.227Z",
   "modules": [
     {
-      "description": "A webcamera node for Node-Red.",
+      "description": "TΞꓘN01R - A webcamera node for the Devstudio.",
       "keywords": [
         "node-red",
         "webcamera"
@@ -11,10 +11,90 @@
       "types": [
         "webcamera"
       ],
-      "updated_at": "2014-07-12T19:47:53.251Z",
+      "updated_at": "2023-07-12T19:47:53.251Z",
       "id": "node-red-teknoir-webcamera",
       "version": "teknoir/node-red-teknoir-webcamera#main",
       "url": "https://github.com/teknoir/node-red-teknoir-webcamera"
+    },
+    {
+      "description": "TΞꓘN01R - A set of nodes to visualize data on the Teknoir Platform.",
+      "keywords": [
+        "node-red",
+        "plot",
+        "graph",
+        "visualize"
+      ],
+      "types": [
+        "visualize"
+      ],
+      "updated_at": "2023-07-12T19:47:53.251Z",
+      "id": "node-red-teknoir-visualize",
+      "version": "teknoir/node-red-teknoir-visualize#master",
+      "url": "https://github.com/teknoir/node-red-teknoir-visualize"
+    },
+    {
+      "description": "TΞꓘN01R - A set of nodes to embed html in a flow on the Teknoir Platform.",
+      "keywords": [
+        "node-red",
+        "iframe",
+        "embed"
+      ],
+      "types": [
+        "embed"
+      ],
+      "updated_at": "2023-07-12T19:47:53.251Z",
+      "id": "node-red-teknoir-embed",
+      "version": "teknoir/node-red-teknoir-embed#main",
+      "url": "https://github.com/teknoir/node-red-teknoir-embed"
+    },
+    {
+      "description": "TΞꓘN01R - File batch uploader Node for Node Red.",
+      "keywords": [
+        "node-red",
+        "batch",
+        "upload",
+        "files"
+      ],
+      "types": [
+        "files"
+      ],
+      "updated_at": "2023-07-12T19:47:53.251Z",
+      "id": "node-red-teknoir-files",
+      "version": "teknoir/node-red-teknoir-files#main",
+      "url": "https://github.com/teknoir/node-red-teknoir-files"
+    },
+    {
+      "description": "TΞꓘN01R - This is a node-red node for posting http(s) requests containing files as multipart formData.",
+      "keywords": [
+        "node-red",
+        "http",
+        "form",
+        "multipart"
+      ],
+      "types": [
+        "http"
+      ],
+      "updated_at": "2023-07-12T19:47:53.251Z",
+      "id": "node-red-teknoir-send-multipart",
+      "version": "teknoir/node-red-teknoir-send-multipart#main",
+      "url": "https://github.com/teknoir/node-red-teknoir-send-multipart"
+    },
+    {
+      "description": "TΞꓘN01R - Blocks images based on threshold in SSIM and perceived luminance.",
+      "keywords": [
+        "node-red",
+        "filter",
+        "ssim",
+        "luminance",
+        "images"
+      ],
+      "types": [
+        "filter"
+      ],
+      "updated_at": "2023-07-12T19:47:53.251Z",
+      "id": "node-red-teknoir-image-filters",
+      "version": "teknoir/node-red-teknoir-image-filters#main",
+      "url": "https://github.com/teknoir/node-red-teknoir-image-filters"
     }
   ]
 }
