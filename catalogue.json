@@ -3,6 +3,22 @@
   "updated_at": "2023-09-28T07:15:04.227Z",
   "modules": [
     {
+      "description": "TΞꓘN01R - Devstudio nodes to integrate with Zapier.",
+      "keywords": [
+        "node-red",
+        "teknoir",
+        "zapier"
+      ],
+      "types": [
+        "actions",
+        "triggers"
+      ],
+      "updated_at": "2023-09-15T19:47:53.251Z",
+      "id": "node-red-teknoir-zapier",
+      "version": "teknoir/node-red-teknoir-zapier#main",
+      "url": "https://github.com/teknoir/node-red-teknoir-zapier"
+    },
+    {
       "description": "TΞꓘN01R - A webcamera node for the Devstudio.",
       "keywords": [
         "node-red",
