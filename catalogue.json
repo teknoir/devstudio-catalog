@@ -1,7 +1,104 @@
 {
   "name": "Node-RED Teknoir catalogue",
-  "updated_at": "2023-09-28T07:15:04.227Z",
+  "updated_at": "2023-09-26T14:15:04.227Z",
   "modules": [
+    {
+      "description": "TΞꓘN01R - A set of nodes to send push-notification from Teknoir Platform.",
+      "keywords": [
+        "node-red",
+        "teknoir",
+        "notifications"
+      ],
+      "types": [
+        "notifications"
+      ],
+      "updated_at": "2023-09-26T13:47:53.251Z",
+      "id": "node-red-teknoir-push-notifications",
+      "version": "teknoir/node-red-teknoir-push-notifications#main",
+      "url": "https://github.com/teknoir/node-red-teknoir-push-notifications"
+    },
+    {
+      "description": "TΞꓘN01R - A set of nodes to connect Label Studio in interesting ways.",
+      "keywords": [
+        "node-red",
+        "teknoir",
+        "labelstudio"
+      ],
+      "types": [
+        "annotation",
+        "images"
+      ],
+      "updated_at": "2023-09-26T13:47:53.251Z",
+      "id": "node-red-teknoir-label-studio",
+      "version": "teknoir/node-red-teknoir-label-studio#main",
+      "url": "https://github.com/teknoir/node-red-teknoir-label-studio"
+    },
+    {
+      "description": "TΞꓘN01R - A set of nodes to connect to Kubeflow in interesting ways.",
+      "keywords": [
+        "node-red",
+        "teknoir",
+        "kubeflow"
+      ],
+      "types": [
+        "workflows",
+        "pipelines"
+      ],
+      "updated_at": "2023-09-26T13:47:53.251Z",
+      "id": "node-red-teknoir-kubeflow",
+      "version": "teknoir/node-red-teknoir-kubeflow#main",
+      "url": "https://github.com/teknoir/node-red-teknoir-kubeflow"
+    },
+    {
+      "description": "TΞꓘN01R - A set of nodes to ingest data from devices in the Teknoir Platform.",
+      "keywords": [
+        "node-red",
+        "teknoir",
+        "ingest"
+      ],
+      "types": [
+        "metrics",
+        "telemetry"
+      ],
+      "updated_at": "2023-09-26T13:47:53.251Z",
+      "id": "node-red-teknoir-ingest",
+      "version": "teknoir/node-red-teknoir-ingest#main",
+      "url": "https://github.com/teknoir/node-red-teknoir-ingest"
+    },
+    {
+      "description": "TΞꓘN01R - Nodes that allow for embedding Grafana graphs in the Teknoir Devstudio.",
+      "keywords": [
+        "node-red",
+        "teknoir",
+        "grafana"
+      ],
+      "types": [
+        "dashboards",
+        "graphs"
+      ],
+      "updated_at": "2023-09-26T13:47:53.251Z",
+      "id": "node-red-teknoir-grafana",
+      "version": "teknoir/node-red-teknoir-grafana#main",
+      "url": "https://github.com/teknoir/node-red-teknoir-grafana"
+    },
+    {
+      "description": "TΞꓘN01R - A set of nodes to configure IoT devices on the Teknoir Platform.",
+      "keywords": [
+        "node-red",
+        "teknoir",
+        "devices",
+        "configure",
+        "apps"
+      ],
+      "types": [
+        "apps",
+        "devices"
+      ],
+      "updated_at": "2023-09-26T13:47:53.251Z",
+      "id": "node-red-teknoir-configure-devices",
+      "version": "teknoir/node-red-teknoir-configure-devices#main",
+      "url": "https://github.com/teknoir/node-red-teknoir-configure-devices"
+    },
     {
       "description": "TΞꓘN01R - Devstudio nodes to integrate with Zapier.",
       "keywords": [
