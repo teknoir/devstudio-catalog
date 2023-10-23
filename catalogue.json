@@ -28,9 +28,9 @@
         "annotation",
         "images"
       ],
-      "updated_at": "2023-09-26T13:47:53.251Z",
+      "updated_at": "2023-10-23T13:47:53.251Z",
       "id": "node-red-teknoir-label-studio",
-      "version": "teknoir/node-red-teknoir-label-studio#main",
+      "version": "teknoir/node-red-teknoir-label-studio#0.0.2",
       "url": "https://github.com/teknoir/node-red-teknoir-label-studio"
     },
     {
