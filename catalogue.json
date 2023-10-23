@@ -116,6 +116,23 @@
       "url": "https://github.com/teknoir/node-red-teknoir-zapier"
     },
     {
+      "description": "TΞꓘN01R - Devstudio node with an embedded Zapier editor.",
+      "keywords": [
+        "node-red",
+        "teknoir",
+        "zapier",
+        "editor",
+        "embed"
+      ],
+      "types": [
+        "editor"
+      ],
+      "updated_at": "2023-10-11T20:00:00.251Z",
+      "id": "node-red-teknoir-zapier-embed",
+      "version": "teknoir/node-red-teknoir-zapier-embed#main",
+      "url": "https://github.com/teknoir/node-red-teknoir-zapier-embed"
+    },
+    {
       "description": "TΞꓘN01R - A webcamera node for the Devstudio.",
       "keywords": [
         "node-red",
