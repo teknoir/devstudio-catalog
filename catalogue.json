@@ -140,9 +140,9 @@
       "types": [
         "visualize"
       ],
-      "updated_at": "2023-10-23T19:47:53.251Z",
+      "updated_at": "2024-06-06T14:05:53.251Z",
       "id": "node-red-teknoir-visualize",
-      "version": "teknoir/node-red-teknoir-visualize#0.1.0",
+      "version": "teknoir/node-red-teknoir-visualize#0.2.0",
       "url": "https://github.com/teknoir/node-red-teknoir-visualize"
     },
     {
