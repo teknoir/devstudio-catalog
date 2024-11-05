@@ -1,6 +1,6 @@
 {
   "name": "Node-RED Teknoir catalogue",
-  "updated_at": "2023-10-23T14:15:04.227Z",
+  "updated_at": "2024-11-05T14:15:04.227Z",
   "modules": [
     {
       "description": "TΞꓘN01R - A set of nodes to send push-notification from Teknoir Platform.",
@@ -14,7 +14,7 @@
       ],
       "updated_at": "2023-09-26T13:47:53.251Z",
       "id": "node-red-teknoir-push-notifications",
-      "version": "teknoir/node-red-teknoir-push-notifications#main",
+      "version": "0.0.1",
       "url": "https://github.com/teknoir/node-red-teknoir-push-notifications"
     },
     {
@@ -30,7 +30,7 @@
       ],
       "updated_at": "2023-10-23T13:47:53.251Z",
       "id": "node-red-teknoir-label-studio",
-      "version": "teknoir/node-red-teknoir-label-studio#0.0.4",
+      "version": "0.0.4",
       "url": "https://github.com/teknoir/node-red-teknoir-label-studio"
     },
     {
@@ -46,7 +46,7 @@
       ],
       "updated_at": "2023-09-26T13:47:53.251Z",
       "id": "node-red-teknoir-kubeflow",
-      "version": "teknoir/node-red-teknoir-kubeflow#main",
+      "version": "0.0.1",
       "url": "https://github.com/teknoir/node-red-teknoir-kubeflow"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "updated_at": "2023-09-26T13:47:53.251Z",
       "id": "node-red-teknoir-ingest",
-      "version": "teknoir/node-red-teknoir-ingest#main",
+      "version": "0.0.2",
       "url": "https://github.com/teknoir/node-red-teknoir-ingest"
     },
     {
@@ -78,7 +78,7 @@
       ],
       "updated_at": "2023-09-26T13:47:53.251Z",
       "id": "node-red-teknoir-grafana",
-      "version": "teknoir/node-red-teknoir-grafana#main",
+      "version": "0.0.1",
       "url": "https://github.com/teknoir/node-red-teknoir-grafana"
     },
     {
@@ -96,7 +96,7 @@
       ],
       "updated_at": "2024-08-08T13:47:53.251Z",
       "id": "node-red-teknoir-configure-devices",
-      "version": "teknoir/node-red-teknoir-configure-devices#0.1.7",
+      "version": "0.1.7",
       "url": "https://github.com/teknoir/node-red-teknoir-configure-devices"
     },
     {
@@ -112,7 +112,7 @@
       ],
       "updated_at": "2023-09-15T19:47:53.251Z",
       "id": "node-red-teknoir-zapier",
-      "version": "teknoir/node-red-teknoir-zapier#main",
+      "version": "0.0.3",
       "url": "https://github.com/teknoir/node-red-teknoir-zapier"
     },
     {
@@ -126,7 +126,7 @@
       ],
       "updated_at": "2023-07-12T19:47:53.251Z",
       "id": "node-red-teknoir-webcamera",
-      "version": "teknoir/node-red-teknoir-webcamera#main",
+      "version": "0.1.1",
       "url": "https://github.com/teknoir/node-red-teknoir-webcamera"
     },
     {
@@ -142,7 +142,7 @@
       ],
       "updated_at": "2024-11-04T11:45:53.251Z",
       "id": "node-red-teknoir-visualize",
-      "version": "teknoir/node-red-teknoir-visualize#0.2.2",
+      "version": "0.2.2",
       "url": "https://github.com/teknoir/node-red-teknoir-visualize"
     },
     {
@@ -157,7 +157,7 @@
       ],
       "updated_at": "2023-07-12T19:47:53.251Z",
       "id": "node-red-teknoir-embed",
-      "version": "teknoir/node-red-teknoir-embed#main",
+      "version": "0.0.1",
       "url": "https://github.com/teknoir/node-red-teknoir-embed"
     },
     {
@@ -173,7 +173,7 @@
       ],
       "updated_at": "2023-07-12T19:47:53.251Z",
       "id": "node-red-teknoir-files",
-      "version": "teknoir/node-red-teknoir-files#main",
+      "version": "0.1.0",
       "url": "https://github.com/teknoir/node-red-teknoir-files"
     },
     {
@@ -189,7 +189,7 @@
       ],
       "updated_at": "2023-07-12T19:47:53.251Z",
       "id": "node-red-teknoir-send-multipart",
-      "version": "teknoir/node-red-teknoir-send-multipart#main",
+      "version": "0.0.1",
       "url": "https://github.com/teknoir/node-red-teknoir-send-multipart"
     },
     {
@@ -206,7 +206,7 @@
       ],
       "updated_at": "2023-07-12T19:47:53.251Z",
       "id": "node-red-teknoir-image-filters",
-      "version": "teknoir/node-red-teknoir-image-filters#main",
+      "version": "0.1.0",
       "url": "https://github.com/teknoir/node-red-teknoir-image-filters"
     }
   ]
