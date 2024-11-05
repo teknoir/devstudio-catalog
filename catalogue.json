@@ -96,7 +96,7 @@
       ],
       "updated_at": "2024-08-08T13:47:53.251Z",
       "id": "node-red-teknoir-configure-devices",
-      "version": "teknoir/node-red-teknoir-configure-devices#0.1.7",
+      "version": "2.1.7",
       "url": "https://github.com/teknoir/node-red-teknoir-configure-devices"
     },
     {
@@ -142,7 +142,7 @@
       ],
       "updated_at": "2024-08-02T10:27:53.251Z",
       "id": "node-red-teknoir-visualize",
-      "version": "teknoir/node-red-teknoir-visualize#0.2.1",
+      "version": "0.2.1",
       "url": "https://github.com/teknoir/node-red-teknoir-visualize"
     },
     {
